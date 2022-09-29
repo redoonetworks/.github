@@ -1,3 +1,3 @@
-## Hi there 👋
+## Welcome at Redoo Crew
 
-Custom CRM/ERP solutions and some more fun
+OpenSource is our passion and so we are supporting public Open Source project whenever possible.
